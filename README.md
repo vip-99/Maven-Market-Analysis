@@ -6,6 +6,9 @@ Analyzing the business strategy of a multinational grocery chain of Maven Market
 
 Task Perfomed :-
 1 Connected and shaping the source data.
+
 2 Builded a relational model.
+
 3 Created an Dax measures and calculated columns.
+
 4 Designed an interactive report.
